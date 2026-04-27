@@ -1,21 +1,76 @@
- # 💫 About Me:
-👨‍💻 Cybersecurity Learner | HTB Practitioner<br><br>🔐 Currently working on Junior Cybersecurity Associate path via Hack The Box (HTB)<br>📚 Completed: Networking Fundamentals & Linux Basics<br><br>🛠️ Tools: Nmap, Wireshark<br>💻 Scripting: Python (Basics)<br><br>🧠 Exploring: SOC concepts, threat detection & real-world security practices<br>📂 Sharing my learning journey through notes, scripts & writeups<br><br>🚀 Goal: To become a skilled Cybersecurity Professional & Security Researcher<br><br>⚡ I learn by breaking, analyzing, and securing systems
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;HTB+Practitioner;Future+Security+Researcher;Always+Learning+%F0%9F%94%90" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manishburdak45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=manishburdak45&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manishburdak45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 👋 Hi, I'm Manish
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manishburdak45&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manishburdak45&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <b>Cybersecurity Learner | Hack The Box Practitioner</b>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=manishburdak45&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔐 About Me
+
+- 🎯 Pursuing **Junior Cybersecurity Associate (HTB Path)**  
+- 📚 Completed **Networking Fundamentals** & **Linux Basics**  
+- 🧠 Learning **SOC Operations, Threat Detection & Blue Teaming**  
+- 📂 Sharing knowledge via **notes, scripts & writeups**  
+- ⚡ Focused on **real-world security skills, not just theory**  
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,python,bash,github" />
+<br/>
+
+</p>
+
+- 🌐 Networking Fundamentals  
+- 🔍 Nmap (Enumeration & Scanning)  
+- 📡 Wireshark (Traffic Analysis)  
+- 🐍 Python (Basic Security Scripting)  
+
+---
+
+## 🚀 Current Focus
+
+- 📘 HTB Modules (JCA Path)  
+- 🛡️ SOC & Blue Team Fundamentals  
+- ⚙️ Developing small **security-focused scripts**  
+- 📝 Writing structured **cybersecurity notes**  
+
+---
+
+## 📂 Featured Work (Coming Soon)
+
+> 🚧 Actively building and uploading:
+- 🔐 HTB Module Writeups  
+- 📘 Networking & Linux Notes  
+- ⚙️ Python Security Scripts  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=manishburdak45&theme=dark&hide_border=true&show_icons=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=manishburdak45&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 GitHub: https://github.com/manishburdak45  
+
+---
+
+<p align="center">
+  ⚡ <i>I explore systems to understand them, break them, and secure them.</i>
+</p>
