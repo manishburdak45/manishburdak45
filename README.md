@@ -3,7 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;HTB+Practitioner;Future+Security+Researcher;Always+Learning+%F0%9F%94%90" />
 </p>
 
-# 👋 Hi, I'm Manish
+# 👋 Hi, I'm Manish Burdak
+
 
 <p align="center">
   <b>Cybersecurity Learner | Hack The Box Practitioner</b>
