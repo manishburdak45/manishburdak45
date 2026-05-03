@@ -65,8 +65,11 @@
 </p>
 
 ---
-
-## 📫 Connect With Me
+##  Quick Summary
+- Networking = communication between devices  
+- Security = protection using layers  
+- Tools = visibility and control  
+## Connect With Me
 
 - 💼 GitHub: https://github.com/manishburdak45  
 
