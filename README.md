@@ -92,13 +92,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manishburdak45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=manishburdak45&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishburdak45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishburdak45&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
-
----
 
 # 🔥 Contribution Activity
 
