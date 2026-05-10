@@ -88,13 +88,31 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Activity Dashboard
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manishburdak45&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishburdak45&theme=github_dark" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=manishburdak45&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishburdak45&theme=github_dark" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishburdak45&theme=github_dark" />
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishburdak45&theme=github_dark" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manishburdak45&theme=github_dark&utcOffset=5.5" />
 
 </p>
 
@@ -104,17 +122,7 @@
 
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=manishburdak45&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" />
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=manishburdak45&theme=algolia&no-frame=true&margin-w=8&margin-h=8" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=manishburdak45&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true&area=true" />
 
 </p>
 
