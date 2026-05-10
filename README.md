@@ -92,21 +92,31 @@
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=manishburdak45&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manishburdak45&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishburdak45&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p>
-
-# 🔥 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manishburdak45&theme=react-dark&hide_border=true&area=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=manishburdak45&theme=github-dark-blue&hide_border=true" />
 
 </p>
 
 ---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=manishburdak45&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" />
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manishburdak45&theme=algolia&no-frame=true&margin-w=8&margin-h=8" />
+
+</p>
 
 # 🏆 GitHub Trophies
 
