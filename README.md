@@ -27,7 +27,6 @@
 - 📚 Building strong fundamentals before advanced exploitation
 - 🧠 Focused on **real-world practical learning**
 - ⚡ Creating notes, labs, and cybersecurity projects
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ec9c1c7b-c9e0-489f-8616-1d552e16ff4e" />
 
 ---
 
