@@ -1,64 +1,83 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=CYBERSECURITY+LEARNER;HTB+PRACTITIONER;NETWORKING+%7C+LINUX+%7C+BLUE+TEAM;BUILDING+SECURITY+SKILLS+THROUGH+PRACTICAL+WORK" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=780&lines=CYBERSECURITY+LEARNER;HTB+PRACTITIONER;NETWORKING+%7C+LINUX+%7C+SECURITY+TOOLS;BLUE+TEAM+%7C+DEFENSIVE+SECURITY" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/CYBERSECURITY-LEARNER-00F7FF?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/HTB-PRACTITIONER-9FEF00?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/NETWORKING-FOUNDATIONS-2563EB?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/BLUE_TEAM-FOCUS-7C3AED?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/HTB-PRACTITIONER-3DDC84?style=flat-square&labelColor=0D1117&color=3DDC84">
+<img src="https://img.shields.io/badge/NETWORKING-LINUX-2563EB?style=flat-square&labelColor=0D1117&color=2563EB">
+<img src="https://img.shields.io/badge/BLUE_TEAM-FOCUS-7C3AED?style=flat-square&labelColor=0D1117&color=7C3AED">
+<img src="https://img.shields.io/badge/STATUS-LEARNING-00F7FF?style=flat-square&labelColor=0D1117&color=00F7FF">
 
 </div>
 
 <br>
 
-I'm building a cybersecurity foundation through hands-on practice — mainly Hack The Box Academy, home labs, and small security-focused projects — rather than theory alone.
+I'm building cybersecurity skills through practical work — Hack The Box Academy, home labs, networking, Linux, and small security-focused projects. This profile reflects what I've actually learned and built, not a job title I don't have yet.
 
 ---
 
-## Current Status
+## Security Focus
 
-| Learned | Currently Learning | Building |
-|---|---|---|
-| Networking fundamentals | HTB Academy — Junior Cybersecurity Analyst path | Security tools & scripts |
-| Linux fundamentals | Enumeration & reconnaissance | Python utilities |
-| TCP/IP, ports, protocols | Blue Team / SOC fundamentals | Cybersecurity mini-projects |
-| DNS, DHCP, subnetting | Linux security | Technical notes & lab documentation |
-| Nmap, Wireshark | Security automation (Python/Bash) | |
+<table>
+<tr>
+<th align="left" width="33%">LEARNED</th>
+<th align="left" width="33%">CURRENTLY LEARNING</th>
+<th align="left" width="33%">BUILDING</th>
+</tr>
+<tr valign="top">
+<td>
+
+Networking fundamentals
+TCP/IP
+DNS / DHCP
+Ports & protocols
+Subnetting
+Linux fundamentals
+Linux CLI
+Nmap
+Wireshark
+SSH
+Git / GitHub
+Python / Bash basics
+
+</td>
+<td>
+
+HTB Academy
+Junior Cybersecurity Analyst path
+Enumeration & reconnaissance
+Network security
+Linux security
+Blue Team fundamentals
+SOC concepts
+Security monitoring
+Security automation
+
+</td>
+<td>
+
+Security tools
+Python utilities
+Cybersecurity projects
+HTB notes
+Lab documentation
+Network/security experiments
+Practical automation scripts
+
+</td>
+</tr>
+</table>
 
 ---
 
-## What I've Learned
+## Current Mission
 
-**Networking** — TCP/IP, DNS, DHCP, ports & protocols, subnetting, network traffic
-
-**Linux** — CLI, filesystem, permissions, processes, basic administration
-
-**Security Tools** — Nmap, Wireshark, SSH, Kali Linux, VirtualBox
-
-**Development** — Python, Bash, Git, GitHub
-
----
-
-## Current Focus
-
-- Hack The Box Academy — Junior Cybersecurity Analyst path
-- Network security & enumeration
-- Linux security
-- Blue Team / SOC fundamentals
-- Python & Bash for security automation
-- Practical labs and clearer technical documentation
-
----
-
-## Where I'm Going
-
+```text
+NETWORKING → LINUX → SECURITY TOOLS → HTB / PRACTICAL LABS
+   → ENUMERATION → BLUE TEAM → DETECTION & MONITORING
+   → SECURITY AUTOMATION → REAL PROJECTS
 ```
-Cybersecurity → Networking → Linux → Security Tools → Practical Labs → Blue Team / Defensive Security → Security Automation → Real Projects
-```
-
-Building strong fundamentals first, then moving deeper into practical defensive security work.
 
 ---
 
@@ -70,6 +89,22 @@ Building strong fundamentals first, then moving deeper into practical defensive 
 - **Technical documentation** — structured notes on commands, concepts, and lab findings
 
 *Repository links will be added here as they're published.*
+
+---
+
+## Tools & Technologies
+
+**Systems** — Linux · Kali Linux · VirtualBox
+
+**Networking** — TCP/IP · DNS · DHCP · Nmap · Wireshark
+
+**Development** — Python · Bash · Git · GitHub · VS Code
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" alt="Skills" />
+
+</div>
 
 ---
 
@@ -90,11 +125,14 @@ Building strong fundamentals first, then moving deeper into practical defensive 
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishburdak45&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishburdak45&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
-### Achievements
+<details>
+<summary>Achievements</summary>
+
+<br>
 
 <div align="center">
 
@@ -102,36 +140,19 @@ Building strong fundamentals first, then moving deeper into practical defensive 
 
 </div>
 
----
-
-## Tools & Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" alt="Skills" />
-
-</div>
-
-<div align="center">
-
-<sub>Also using: Nmap · Wireshark · Kali Linux</sub>
-
-</div>
+</details>
 
 ---
 
 <div align="center">
 
-Understand the system before trying to secure it.
+<sub>Understand the system before trying to secure it.</sub>
 
 <br><br>
 
 <a href="https://github.com/manishburdak45">
-<img src="https://img.shields.io/badge/GitHub-manishburdak45-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-manishburdak45-181717?style=flat-square&logo=github">
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=manishburdak45&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=manishburdak45&label=PROFILE+VIEWS&color=0D1117&style=flat-square" alt="Profile Views" />
 
 </div>
